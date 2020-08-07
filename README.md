@@ -1,10 +1,14 @@
 # Kitti Sintuprasert 👋 #
 
-Lorem ipsum dolor sit amet,
+I’m Full stack developer. I'm working on Thai.run Inc and Bearright Technology Inc.
 
-- consectetuer adipiscing elit.
+- 🔥 Currently working as develop several **Artificial Intelligent** project for my company.
 
-- Aliquam turpis. Nullam lobortis cursus nulla.
+- 🖼 Loving to develop any project on Frontend development with **Vue**, **React** Framework.
+
+- 📱 Able to develop hybrid mobile application with **Flutter**. and Learning **Swift** to create Native mobile app.
+
+- 🗂 Able to create database with **Firebase** and **PostgresQL**.
 
 - Vestibulum ante ipsum primis in faucibus orci luctus et
 
