@@ -10,6 +10,15 @@ I’m Full stack developer. I'm working on Thai.run Inc and Bearright Technology
 
 - 🗂 Able to create database with **Firebase** and **PostgresQL**.
 
+******************************
+
+#### Date Created :: Friday 7 August 2020 ####
+
+******************************
+
+<!--
+**kittist/kittist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 - Vestibulum ante ipsum primis in faucibus orci luctus et
 
 - ultrices posuere cubilia Curae; Cras facilisis rhoncus ante.
@@ -22,14 +31,9 @@ I’m Full stack developer. I'm working on Thai.run Inc and Bearright Technology
 - Praesent nonummy mi facilisis tortor. Praesent suscipit. Donec laoreet dignissim justo. Nullam ut purus ac leo sollicitudin accumsan. Fusce et quam.
 
 
-******************************
 
-#### Date Created :: Friday 7 August 2020 ####
 
-******************************
 
-<!--
-**kittist/kittist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
