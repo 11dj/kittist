@@ -1,6 +1,6 @@
 # Kitti Sintuprasert 👋 #
 
-I’m Full stack developer. I'm working on Thai.run Inc and Bearright Technology Inc.
+I’m Full stack developer. I'm working on [Thai.run](https://thai.run) and [Bearright Technology](https://bearright.co).
 
 - 🔥 Currently working as develop several **Artificial Intelligent** project for my company.
 
