@@ -1,9 +1,4 @@
-### Hi there 👋
-
-Title: A page with a defined style
-CSS: myStyle.css
-
-# Text Header #
+# Kitti Sintuprasert 👋 #
 
 Lorem ipsum dolor sit amet,
 
@@ -25,7 +20,7 @@ Lorem ipsum dolor sit amet,
 
 ******************************
 
-#### Date Created :: Monday 23 June 2014 ####
+#### Date Created :: Friday 7 August 2020 ####
 
 ******************************
 
