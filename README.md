@@ -1,18 +1,24 @@
 # Kitti Sintuprasert 👋 #
 
-I’m Full stack developer. I'm working on [Thai.run](https://thai.run) and [Bearright Technology](https://bearright.co).
+I’m Full stack developer. I'm working on [Thai.run](https://thai.run).
 
 - 🔥 Currently working as develop several **Artificial Intelligent** project for my company.
 
-- 🖼 Loving to develop any project on Frontend development with **Vue**, **React** Framework.
+- 🖼 Loving to develop any projects on Frontend development with **Vue**, **React** Framework.
 
 - 📱 Able to develop hybrid mobile application with **Flutter**. and Learning **Swift** to create Native mobile app.
 
 - 🗂 Able to create database with **Firebase** and **PostgresQL**.
 
+
+
+![Kittist's GitHub stats](https://github-readme-stats.vercel.app/api?username=kittist&count_private=true&show_icons=true&&theme=radical)
+
+
+
 ******************************
 
-#### Date Created :: Friday 7 August 2020 ####
+#### Date Created :: Saturday 13 March 2021 ####
 
 ******************************
 
